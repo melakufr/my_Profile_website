@@ -1,82 +1,21 @@
-# [chanhdai.com](https://chanhdai.com)
+<div align="center">
 
-A minimal, pixel-perfect dev portfolio, component registry, and blog to showcase my work as a Design Engineer.
+# Hi, I'm MelakuGirma13 👋
 
-Check out the live site: [chanhdai.com](https://chanhdai.com)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40MelakuGirma13-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/MelakuGirma13)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://assets.chanhdai.com/images/screenshot-desktop-dark.webp?t=1763226447">
-  <source media="(prefers-color-scheme: light)" srcset="https://assets.chanhdai.com/images/screenshot-desktop-light.webp?t=1763226447">
-  <img src="https://assets.chanhdai.com/images/screenshot-desktop-light.webp?t=1763226447" alt="Screenshot">
-</picture>
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/MelakuGirma13.svg?variant=secondary&size=sm)](https://github.com/MelakuGirma13?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/MelakuGirma13.svg?variant=secondary&size=sm)](https://github.com/MelakuGirma13?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-55-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/MelakuGirma13?tab=repositories)
 
-## GitAds Sponsored
+</div>
 
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ncdai/chanhdai.com@github)](https://gitads.dev/v1/ad-track?source=ncdai/chanhdai.com@github)
+## 🛠️ Skills & Technologies
 
-## Overview
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![Supabase](https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&size=sm) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm) ![Prisma](https://www.shieldcn.dev/badge/-Prisma-2D3748.svg?logo=prisma&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm)
 
-### Stack
+## 📦 Top Repositories
 
-- Next.js 16
-- Tailwind CSS v4
-- shadcn/ui
+[![Invoice-Generator-with-Next.js ⭐ 2](https://www.shieldcn.dev/github/stars/MelakuGirma13/Invoice-Generator-with-Next.js.svg?variant=secondary&size=sm)](https://github.com/MelakuGirma13/Invoice-Generator-with-Next.js)
 
-### Featured
+---
 
-- Clean & modern design
-- Light/Dark themes
-- vCard integration
-- SEO optimized ([JSON-LD schema](https://json-ld.org), sitemap, robots)
-- AI-ready with [/llms.txt](https://llmstxt.org)
-- Spam-protected email
-- Installable as PWA
-
-### Blog
-
-- Supports MDX & Markdown
-- Raw `.mdx` endpoints for AI readability
-- Syntax highlighting for clear code presentation
-- Dynamic OG images for rich link previews
-- RSS feed for easy content distribution
-
-### Registry
-
-Easily build and distribute reusable components, hooks, and pages using a custom registry powered by the [shadcn CLI](https://ui.shadcn.com/docs/cli).
-
-Each entry is well-documented and includes:
-
-- Live preview & code snippets
-- Beautiful, readable code blocks
-- One-click command blocks (pnpm, npm, yarn, bun)
-
-## Development
-
-Please refer to the [Development Guide](./DEVELOPMENT.md) for more details.
-
-## License
-
-Licensed under the [MIT license](./LICENSE).
-
-You're free to use my code! Just make sure to <ins>remove all my personal information</ins> before publishing your website. It's awesome to see my code being useful to someone!
-
-## Star History
-
-[![Star History](https://starchart.cc/ncdai/chanhdai.com.svg?variant=adaptive&line=%23d37f2c)](https://starchart.cc/ncdai/chanhdai.com)
-
-## Acknowledgments
-
-- [React](https://react.dev)
-- [Next.js](https://nextjs.org)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Radix UI](https://www.radix-ui.com)
-- [Motion](https://motion.dev)
-- [shadcn/ui](https://ui.shadcn.com)
-- [Aceternity UI](https://ui.aceternity.com)
-- [Kibo UI](https://www.kibo-ui.com)
-- [Lucide](https://lucide.dev)
-- [Fumadocs](https://fumadocs.dev)
-- [c15t](https://c15t.com)
-- And many other open-source libraries used in `package.json`
-
-<!-- GitAds-Verify: QICCAB4PFWV9MHUGPGPN5B2I8SAXLAOK -->
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
